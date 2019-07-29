@@ -1,0 +1,44 @@
+
+
+
+.nav-bar{
+   
+    background-color: red;
+  
+   
+}
+.head{
+    background-color:green;
+    text-align:center;
+}
+.box1{
+background-color:red;
+height: 588px;
+padding: 20px 20px 20px 20px;
+
+}
+.box2{
+    background-color:yellow;
+height: 588px;
+}
+.box3{
+    background-color: blue;
+    height: 588px;
+}
+.box1-1{
+    height:200px;
+    width: 200px;
+    
+    background-color:blue;
+    margin: 20px 20px 20px 20px;
+}
+
+.box1-2{
+    height:200px;
+    width: 200px;
+    margin: 20px 20px 20px 20px;
+    padding-top:20px;
+    padding-left:10px;
+    background-color:blue;
+}
+
